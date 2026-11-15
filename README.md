@@ -1,1 +1,3 @@
-# FCED_project
+# FCED Final project
+
+Wildfires in Portugal
