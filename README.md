@@ -91,8 +91,8 @@ Fires with 0 ha are kept in the analyses that count ignitions (Q1 and Q2) and ex
 1. Clone the repository.
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/isabelamer/FCED_project/tree/main>
+   cd <FCED_project>
    ```
 
 2. Download the three SGIF files from the [ICNF statistics page](https://www.icnf.pt/florestas/gfr/gfrgestaoinformacao/estatisticas) and place them in `01_dataset/raw/` with the file names listed above.
